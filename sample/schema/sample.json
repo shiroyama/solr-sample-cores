@@ -1,0 +1,30 @@
+[
+    {
+        "id" : "1",
+        "name_ja" : "ダイコン",
+        "name_kana" : "だいこん",
+        "name_en" : "Japanese radish",
+        "description" : "ダイコン（大根、学名：Raphanus sativus var. longipinnatus）はアブラナ科ダイコン属の越年草で、野菜として広く栽培される。主に肥大した根を食用とするほか種子から油を採ることもあり、緑黄色野菜でもあり淡色野菜でもある。名前の由来は、大きな根を意味する大根（おおね）から。
+        多くの品種があり、根の長さ・太さなどの形状が多様。また皮の色も白以外に赤・緑・紫・黄・黒などがあり、地域によっては白よりも普通である。日本ではほとんどが白い品種で、スズシロ（清白）の別名もこれに基づく。",
+        "category_1" : "野菜",
+        "category_2" : "根菜類"
+    },
+    {
+        "id" : "2",
+        "name_ja" : "ニンジン",
+        "name_kana" : "にんじん",
+        "name_en" : "carrot",
+        "description" : "ニンジン（人参、漢名：胡蘿蔔（こらふ）、学名：Daucus carota subsp. sativus）はアフガニスタン原産のセリ科ニンジン属の2年草。",
+        "category_1" : "野菜",
+        "category_2" : "根菜類"
+    },
+    {
+        "id" : "3",
+        "name_ja" : "ゴボウ",
+        "name_kana" : "ごぼう",
+        "name_en" : "edible burdock",
+        "description" : "ゴボウ（牛蒡または牛旁、悪実、英: Burdock、学名： Arctium lappa L. ）は、キク科の多年草。ユーラシア大陸原産。",
+        "category_1" : "野菜",
+        "category_2" : "根菜類"
+    }
+]
